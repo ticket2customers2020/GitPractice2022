@@ -15,6 +15,7 @@ public class Main {
 
     private static void add(int a, int b) {
         System.out.println(a+b);
+        System.out.println(a*b);
         System.out.println("//change List is nothing but stash - have added multiple changelist like DS JAVA8 Java 11");
     }
 }
